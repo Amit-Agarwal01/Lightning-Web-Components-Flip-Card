@@ -5,7 +5,6 @@ This Project is based on Lightning Web Components.Using LWC concepts and CSS pro
 
 In this repo I tried to demonstrate how this is acheived.
 
-![Demo](https://user-images.githubusercontent.com/60521717/87860839-58137380-c95e-11ea-9f23-70485458aa70.gif)
 
 Card Front and Back 
 
