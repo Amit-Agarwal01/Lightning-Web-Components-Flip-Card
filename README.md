@@ -5,8 +5,13 @@ This Project is based on Lightning Web Components.Using LWC concepts and CSS pro
 
 In this repo I tried to demonstrate how this is acheived.
 
+Card Front and Back 
 
 ![image](https://user-images.githubusercontent.com/60521717/87860773-e3d8d000-c95d-11ea-9083-b1259c4fc517.png)
+
+Modal Pop-up
+
+![image](https://user-images.githubusercontent.com/60521717/87860821-2bf7f280-c95e-11ea-9364-7479d1ac6907.png)
 
 
 # Salesforce App
