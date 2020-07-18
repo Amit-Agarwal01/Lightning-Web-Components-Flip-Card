@@ -4,6 +4,7 @@ Flip Card
 This Project is based on Lightning Web Components.Using LWC concepts and CSS properties we can create a Fliping Card in Salesforce.
 
 In this repo I tried to demonstrate how this is acheived.
+![Demo](https://user-images.githubusercontent.com/60521717/87860839-58137380-c95e-11ea-9f23-70485458aa70.gif)
 
 Card Front and Back 
 
