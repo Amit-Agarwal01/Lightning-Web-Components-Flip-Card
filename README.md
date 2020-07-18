@@ -6,7 +6,7 @@ This Project is based on Lightning Web Components.Using LWC concepts and CSS pro
 In this repo I tried to demonstrate how this is acheived.
 
 
-![Uploading Demo.gif…]()
+![image](https://user-images.githubusercontent.com/60521717/87860773-e3d8d000-c95d-11ea-9083-b1259c4fc517.png)
 
 
 # Salesforce App
